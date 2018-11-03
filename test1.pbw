@@ -1,0 +1,7 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "genapp.pbt";
+@end;
+DefaultTarget "genapp.pbt";
+SharpSolution "WebApplication1\\WebApplication1.sln";
+DefaultRemoteTarget "genapp.pbt";
